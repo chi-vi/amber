@@ -5,7 +5,7 @@ version: 1.2.1
 authors:
   - Amber Team and Contributors <amberframework.org>
 
-crystal: ">= 1.0.0, < 2.0"
+crystal: '>= 1.0.0, < 2.0'
 
 license: MIT
 
@@ -72,7 +72,7 @@ dependencies:
 
   exception_page:
     github: crystal-loot/exception_page
-    version: ~> 0.2.1
+    version: ~> 0.3
 
   yaml_mapping:
     github: crystal-lang/yaml_mapping.cr
