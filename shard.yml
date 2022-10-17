@@ -28,8 +28,7 @@ dependencies:
 
   micrate:
     github: chi-vi/micrate
-    version: ~> 0.12.0
-
+    
   shell-table:
     github: luckyframework/shell-table.cr
     version: ~> 0.9.3
